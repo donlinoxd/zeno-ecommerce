@@ -1,0 +1,10 @@
+{
+  "user": {
+    "firstName": "Lino",
+    "lastName": "Escuyos",
+    "username": "don",
+    "email": "don@gmail.com",
+    "password": "123456789",
+    "confirmPassword": "123456789"
+  }
+}
